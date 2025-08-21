@@ -1,0 +1,1 @@
+This notebook demonstrates a code generation agent built using Google's Gemini API and the LangChain framework. The agent is capable of generating and refining code based on natural language prompts, leveraging LLM-powered tools for dynamic and autonomous interactions.
